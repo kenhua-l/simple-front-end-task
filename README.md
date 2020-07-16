@@ -8,4 +8,3 @@ To setup this source code (requires nodejs, npm and gulp installed globally on y
 2. on the terminal or command prompt at the repository folder, do a `npm install`
 3. the last part is to `gulp`
 4. write you code in the src folder for html, css and js. gulp will render the final version on the dest folder
-
